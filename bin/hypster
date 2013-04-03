@@ -1,0 +1,7 @@
+#!/usr/bin/env hy
+
+(import-from hyrc.core irc)
+(import hyrc.handlers)  ; for side-effects
+
+(.start irc)
+(.join irc)
