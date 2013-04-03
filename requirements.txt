@@ -1,2 +1,3 @@
+hy
 gevent
 -e git://github.com/gwik/geventirc.git#egg=geventirc
